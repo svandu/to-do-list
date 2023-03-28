@@ -98,7 +98,7 @@ input {
     color: #fff;
 }
 
-/* @media (max-width: 388px) {
+@media (max-width: 388px) {
     input {
         font-size: 1rem;
         padding: 2px;
@@ -115,4 +115,4 @@ input {
     .task .deleteTask {
         font-size: 1.2rem;
     }
-} */
+}
