@@ -10,7 +10,7 @@
 
 Users should be able to:
 
-- Add the work in the to-do list 
+- Add the list of work in the to-do list 
 - They can mark it as done and can also delete the work.
 
 ### Built with
